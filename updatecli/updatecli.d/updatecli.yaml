@@ -1,5 +1,5 @@
 ---
-name: "Update updatecli version"
+name: "Update updatecli version test"
 
 scms:
   default:
